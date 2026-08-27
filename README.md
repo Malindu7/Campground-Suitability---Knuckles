@@ -1,10 +1,10 @@
-<img width="3507" height="4960" alt="Final Camping sites Suitability Map" src="https://github.com/user-attachments/assets/6eab7205-75a6-4125-b826-f24f190200d4" /># Campground-Suitability---Knuckles
+# Campground-Suitability - Knuckles
 ## Spatial Suitability Analysis for Sustainable Camping Sites in Knuckles, Sri Lanka
 
 ## Overview
 This study integrates Geographic Information Systems (GIS) with Multi-Criteria Decision Analysis (MCDA) to determine optimal locations for sustainable campsite development in the Knuckles Conservation Forest, Sri Lanka. 
 
-![Uploading Final Camping sites Suitability Map.png…]()
+<img width="3507" height="4960" alt="Final Camping sites Suitability Map" src="https://github.com/user-attachments/assets/6eab7205-75a6-4125-b826-f24f190200d4" />
 
 Using an **Analytic Hierarchy Process (AHP)**, eight spatial variables were evaluated across Natural Environment, Landscape, Infrastructure, and Safety criteria.
 
@@ -32,10 +32,3 @@ Using an **Analytic Hierarchy Process (AHP)**, eight spatial variables were eval
 
 ## Project Report
 The complete detailed report is available in the [`docs/`](./docs/) directory.
-
-## Repository Structure:
-├── data/              # Metadata or small shapefiles/CSV samples
-├── docs/              # Final PDF report
-├── maps/              # Exported maps (PNG/JPEG)
-├── scripts/           # Field calculator formulas or PyQGIS scripts (if any)
-└── README.md          # Project documentation and summary
