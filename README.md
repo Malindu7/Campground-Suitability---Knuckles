@@ -31,4 +31,4 @@ Using an **Analytic Hierarchy Process (AHP)**, eight spatial variables were eval
 | Roads | Infrastructure | 4.8% | Rank 8 |
 
 ## Project Report
-The complete detailed report is available in the [`docs/`](./docs/) directory.
+D_DBA_23_0012 - SDA - Report.pdf
